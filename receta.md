@@ -25,7 +25,7 @@ Sin contar: el tiempo previo que necesites para tener bien activa la masa madre.
 ## Pasos
 
 1. Mezcla todos los ingredientes **menos la sal** y deja reposar 50min.
-2. Saca la masa, **añádele la sal** (ahora sí) y amásala en la encimera como en [el vídeo](https://youtu.be/geOeq_lS5Ww?t=175). Da igual si no te sale tan bien, simplemente inténtalo durante un rato hasta que esté menos pegajosa y suave.
+2. Saca la masa, **añádele la sal** (ahora sí) y amásala primero en el bol y luego en la encimera como en [el vídeo](https://youtu.be/geOeq_lS5Ww?t=175). Da igual si no te sale tan bien, simplemente inténtalo durante un rato hasta que esté menos pegajosa y suave.
 3. Deja reposar la masa en un bol con aceite unos 50min. Depués, dóblala [como un sobre](https://youtu.be/geOeq_lS5Ww?t=286) y vuelva a dejarla reposar otros 50min. Repetir otra vez mas, en total son 2h y media.
 4. Después de ese tiempo, echa harina en la encimera y vuelve a doblar la masa. Déjala reposar otros 15min.
 5. Forma el bollo [así](https://youtu.be/geOeq_lS5Ww?t=397).
