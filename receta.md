@@ -5,7 +5,7 @@ No hay **tl;dr**, es simplemente una receta que a mí, lega del pan, me ha funci
 
 ## Prerequisitos
 
-- 200g de masa madre activada.
+- 200g de masa madre activada
 
 ## Ingredientes
 
@@ -20,7 +20,7 @@ No hay **tl;dr**, es simplemente una receta que a mí, lega del pan, me ha funci
 - 18h de tiempo de reposo en la nevera.
 - 1h y algo de tiempo de horneado.
 
-Sin contar: el tiempo previo necesites para tener bien activa la masa madre.
+Sin contar: el tiempo previo que necesites para tener bien activa la masa madre.
 
 ## Pasos
 
@@ -28,7 +28,7 @@ Sin contar: el tiempo previo necesites para tener bien activa la masa madre.
 2. Saca la masa, **añádele la sal** (ahora sí) y amásala en la encimera como en [el vídeo](https://youtu.be/geOeq_lS5Ww?t=175). Da igual si no te sale tan bien, simplemente inténtalo durante un rato hasta que esté menos pegajosa y suave.
 3. Deja reposar la masa en un bol con aceite unos 50min. Depués, dóblala [como un sobre](https://youtu.be/geOeq_lS5Ww?t=286) y vuelva a dejarla reposar otros 50min. Repetir otra vez mas, en total son 2h y media.
 4. Después de ese tiempo, echa harina en la encimera y vuelve a doblar la masa. Déjala reposar otros 15min.
-5. Forma el bollo [así](https://youtu.be/geOeq_lS5Ww?t=397)
+5. Forma el bollo [así](https://youtu.be/geOeq_lS5Ww?t=397).
 6. Ahora puede ir a la nevera toda la noche y un poco más (yo la dejé 18h aproximadamente) en un bol normal con algo de harina en el fondo y tapado.
 7. Después de ese tiempo, ya se puede hornear. Precalienta el horno a 250ºC, con la bandeja ya metida y un bol de horno en la parte de abajo.
 8. Coloca el pan en la bandeja, encima de una lámina de papel de horno y añade agua caliente al bol de la parte baja (con cuidado). Apaga el horno y deja así 20min.
