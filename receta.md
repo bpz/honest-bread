@@ -36,7 +36,7 @@ Sin contar: el tiempo previo que necesites para tener bien activa la masa madre.
 10. Cuando haya pasado el tiempo, saca el pan y dejar enfríar del todo sobre una rejilla.
 
 ## Cuéntame más
-¿Es esta receta poco más que un .md con una lista (sí) y necesitas saber todos los porqués, consideraciones y truquillos que todos los ~~locos~~ ~~fanáticos~~ aficionados del pan quieren contarte? ¿O simplemente, ya ~~tienes una primera versión del código funcionando~~ has hecho un primer pan y quieres aprender de verdad? Pues yo no soy la más indicada para enseñarte, pero antes de que te pongas a intentar leer todo internet (y que te duela la cabeza durante horas, como a mí) puedes mirar estas páginas:
+¿Es esta receta poco más que un .md con una lista (sí) y necesitas saber todos los porqués, consideraciones y truquillos que todos los ~~locos~~ ~~fanáticos~~ aficionados del pan quieren contarte? ¿O simplemente, ya tienes una primera versión del código funcionando, digo, has hecho un primer pan y quieres aprender de verdad? Pues yo no soy la más indicada para enseñarte, pero antes de que te pongas a intentar leer todo internet (y que te duela la cabeza durante horas, como a mí) puedes mirar estas páginas:
 - [Cómo hacer masa madre](https://www.recetasderechupete.com/como-hacer-masa-madre/28945/). Es el proceso que yo seguí.
 - Esta señora te lo explica [todo](https://bake-street.com/pan-basico-mi-primer-pan-de-masa-madre/) en este post de cómo hacer un primer pan de masa madre.
 - Otra [vídeo receta](https://www.youtube.com/watch?v=GRwfWx4167E) de pan de masa madre fácil, por si la primera no te gustó.
