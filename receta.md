@@ -1,4 +1,4 @@
-# Receta de pan honesto (con masa madre)
+# :bread: Receta de pan honesto (con masa madre) :bread:
 Para hingenieros (y personas con la necesidad de seguir recetas muy exactas y sin mucha parafernalia, como yo)
 
 No hay **tl;dr**, es simplemente una receta que a mí, lega del pan, me ha funcionado; sin explicaciones de por qué el pan, la levadura y todo lo relacionado funciona como funciona. Es básicamente [esta receta en vídeo](https://www.youtube.com/watch?v=geOeq_lS5Ww) algo tuneada.
